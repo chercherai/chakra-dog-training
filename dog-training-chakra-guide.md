@@ -1,8 +1,10 @@
 # The Chakra-Aligned Dog: A Holistic Training Guide
 
+## by @chercher_ai and Claude Sonnet 4.5
+
 ## Introduction: Understanding Your Dog's Energy Centers
 
-Every dog has their own unique energy and way of moving through the world. This guide uses the ancient chakra system as a framework to help you identify behavioral imbalances and restore harmony to your dog's life. While dogs may not have chakras in a literal sense, thinking about their wellbeing through these seven energy centers can help you approach training holistically and address the root causes of behavioral issues.
+Every dog has their own unique energy and way of moving through the world. This guide uses the ancient chakra system as a framework to help you identify behavioral imbalances and restore harmony to your dog's life. While you don't have to believe that dogs have chakras in a literal sense, thinking about their wellbeing through these seven energy centers can help you approach training holistically and address the root causes of behavioral issues.
 
 Each chakra corresponds to specific aspects of your dog's physical, emotional, and behavioral health. When a chakra is "blocked" or "out of alignment," you'll notice specific behavioral patterns. This guide will help you identify which energy center needs attention and provide practical training solutions.
 
@@ -520,4 +522,4 @@ Your dog chose you for a reason. Trust the journey of bringing them back into al
 
 ---
 
-*This guide combines ancient wisdom with modern, science-based training methods. While the chakra framework is metaphorical, the behavioral insights and training techniques are based on positive reinforcement principles proven to be effective and humane. Always consult with veterinary and training professionals for serious behavioral issues.*
+*This guide combines ancient wisdom with modern, science-based training methods. While the chakra framework is just one perspective, the behavioral insights and training techniques are based on positive reinforcement principles proven to be effective and humane. Always consult with veterinary and training professionals for serious behavioral issues.*
